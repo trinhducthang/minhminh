@@ -1,0 +1,18 @@
+﻿<Window x:Class="onlan4.ThongKeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:onlan4"
+        mc:Ignorable="d"
+        Title="ThongKeWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dgThongKe" AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã nhân viên" Binding="{Binding MaNhanVien}" Width="*"/>
+                <DataGridTextColumn Header="Tên nhân viên" Binding="{Binding TenNhanVien}" Width="*"/>
+                <DataGridTextColumn Header="Số lượng dự án" Binding="{Binding SoLuongDuAn}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

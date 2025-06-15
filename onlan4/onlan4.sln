@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onlan4", "onlan4\onlan4.csproj", "{15FC37F2-A30E-4A5C-AB86-846A8100EA4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FC37F2-A30E-4A5C-AB86-846A8100EA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FC37F2-A30E-4A5C-AB86-846A8100EA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FC37F2-A30E-4A5C-AB86-846A8100EA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FC37F2-A30E-4A5C-AB86-846A8100EA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2163B6AD-8E82-43D3-8BF2-E71EADCC5F68}
+	EndGlobalSection
+EndGlobal

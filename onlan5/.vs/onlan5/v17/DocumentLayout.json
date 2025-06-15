@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\onlan5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|c:\\users\\acer\\source\\repos\\onlan5\\onlan5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|solutionrelative:onlan5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|c:\\users\\acer\\source\\repos\\onlan5\\onlan5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|solutionrelative:onlan5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|c:\\users\\acer\\source\\repos\\onlan5\\onlan5\\thongkewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|solutionrelative:onlan5\\thongkewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|c:\\users\\acer\\source\\repos\\onlan5\\onlan5\\thongkewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|solutionrelative:onlan5\\thongkewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|c:\\users\\acer\\source\\repos\\onlan5\\onlan5\\models\\muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|solutionrelative:onlan5\\models\\muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|c:\\users\\acer\\source\\repos\\onlan5\\onlan5\\models\\qltvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|solutionrelative:onlan5\\models\\qltvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|c:\\users\\acer\\source\\repos\\onlan5\\onlan5\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853098F8-E8CB-4843-BE72-B991AE431533}|onlan5\\onlan5.csproj|solutionrelative:onlan5\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongKeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\ThongKeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "onlan5\\ThongKeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\ThongKeWindow.xaml.cs",
+              "RelativeToolTip": "onlan5\\ThongKeWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:37:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThongKeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\ThongKeWindow.xaml",
+              "RelativeDocumentMoniker": "onlan5\\ThongKeWindow.xaml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\ThongKeWindow.xaml",
+              "RelativeToolTip": "onlan5\\ThongKeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-15T16:37:39.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\ACER\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAuwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:05:47.052Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "onlan5\\Models\\Sach.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\Models\\Sach.cs",
+              "RelativeToolTip": "onlan5\\Models\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:53:06.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MuonSach.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\Models\\MuonSach.cs",
+              "RelativeDocumentMoniker": "onlan5\\Models\\MuonSach.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\Models\\MuonSach.cs",
+              "RelativeToolTip": "onlan5\\Models\\MuonSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:52:48.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "onlan5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "onlan5\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:24:44.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLTVContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\Models\\QLTVContext.cs",
+              "RelativeDocumentMoniker": "onlan5\\Models\\QLTVContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\Models\\QLTVContext.cs",
+              "RelativeToolTip": "onlan5\\Models\\QLTVContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:31:15.464Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "eb92de6c-5d2f-4683-9b58-1c91276bc210",
+        "Display": 0,
+        "X": 106,
+        "Y": 77,
+        "Width": 1302,
+        "Height": 766,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "onlan5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\onlan5\\onlan5\\MainWindow.xaml",
+              "RelativeToolTip": "onlan5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-15T15:24:48.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
